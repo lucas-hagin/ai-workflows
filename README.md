@@ -1,6 +1,6 @@
 # AI workflows
 
-I'm a Senior Program Manager at Swissnex in San Francisco, where I run programs and partnerships that connect Swiss institutions with the Bay Area. I build Claude skills for that work. This repo has three of them, cleaned up for public use, and notes on how they are used.
+I work on partnerships and programs at Swissnex in San Francisco. I build Claude skills for that work. This repo has three of them, with internal details removed, and notes on how they are used. It’s a personal project, not an official Swissnex resource.
 
 ## A meeting, end to end
 
